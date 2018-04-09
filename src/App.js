@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to TechNick Services</h2>
         </div>
         <p className="App-intro">
-          Need something fixed, TechNick Services can do it
+          Need something fixed, TechNick Services can do it.
         </p>
       </div>
     );
